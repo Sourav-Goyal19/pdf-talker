@@ -9,3 +9,6 @@ numpy
 python-dotenv
 langchain_community
 langchain_openai
+langchain-groq
+langchain-cohere
+langchain-pinecone
